@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Documentation Architecture — Current State</title>
+  <desc id="desc">How institutional direction, decisions, execution guidance, learning products and releases connect.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,8 L9,4 z" fill="#64748B"/>
+    </marker>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#F1F5F9"/>
+  <text x="70" y="68" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#0F172A">Documentation Architecture — Current State</text>
+  <text x="70" y="102" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#475569">How institutional direction, decisions, execution guidance, learning products and releases connect.</text>
+<rect x="90" y="140" width="330" height="150" rx="14" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2"/>
+<text x="108" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Institutional Direction</text>
+<text x="108" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Official Publications</text>
+<text x="108" y="218" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Academy living documents</text>
+<text x="108" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Vision · Mission · Values</text><rect x="630" y="140" width="340" height="150" rx="14" fill="#FDF4FF" stroke="#A21CAF" stroke-width="2"/>
+<text x="648" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Governance &amp; Decisions</text>
+<text x="648" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Governance</text>
+<text x="648" y="218" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Decision Log</text>
+<text x="648" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Architecture Decision Records</text><rect x="1180" y="140" width="330" height="150" rx="14" fill="#ECFEFF" stroke="#0891B2" stroke-width="2"/>
+<text x="1198" y="170" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Product Direction</text>
+<text x="1198" y="198" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">PRDs</text>
+<text x="1198" y="218" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Roadmap</text>
+<text x="1198" y="238" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Release scope</text><rect x="120" y="420" width="330" height="180" rx="14" fill="#F8FAFC" stroke="#475569" stroke-width="2"/>
+<text x="138" y="450" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Architecture</text>
+<text x="138" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Repository architecture</text>
+<text x="138" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Documentation architecture</text>
+<text x="138" y="518" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Diagram sources</text>
+<text x="138" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Structural responsibilities</text><rect x="635" y="420" width="330" height="180" rx="14" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+<text x="653" y="450" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Execution Guidance</text>
+<text x="653" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Standards</text>
+<text x="653" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Guides</text>
+<text x="653" y="518" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Frameworks</text>
+<text x="653" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Templates</text>
+<text x="653" y="558" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Checklists</text><rect x="1150" y="420" width="330" height="180" rx="14" fill="#FFF7ED" stroke="#EA580C" stroke-width="2"/>
+<text x="1168" y="450" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Knowledge Products</text>
+<text x="1168" y="478" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Knowledge domains</text>
+<text x="1168" y="498" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Learning Paths</text>
+<text x="1168" y="518" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Glossary</text>
+<text x="1168" y="538" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Community support</text><rect x="515" y="770" width="570" height="150" rx="14" fill="#E2E8F0" stroke="#0F172A" stroke-width="2"/>
+<text x="533" y="800" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Releases</text>
+<text x="533" y="828" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Validated outcomes</text>
+<text x="533" y="848" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Versioned history</text>
+<text x="533" y="868" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Reviews · limitations · migration notes</text><rect x="120" y="820" width="270" height="120" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2"/>
+<text x="138" y="850" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Supporting Assets</text>
+<text x="138" y="878" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Assets</text>
+<text x="138" y="898" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Visual evidence</text><rect x="1210" y="820" width="270" height="120" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2"/>
+<text x="1228" y="850" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#0F172A">Shared Vocabulary</text>
+<text x="1228" y="878" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Glossary</text>
+<text x="1228" y="898" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#334155">Terminology consistency</text><line x1="420" y1="215" x2="630" y2="215" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="525.0" y="207.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">guides</text><line x1="970" y1="215" x2="1180" y2="215" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1075.0" y="207.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">prioritizes</text><line x1="800" y1="290" x2="285" y2="420" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="542.5" y="347.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">records structure</text><line x1="800" y1="290" x2="800" y2="420" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="800.0" y="347.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">defines controls</text><line x1="1350" y1="290" x2="1315" y2="420" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1332.5" y="347.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">defines outcomes</text><line x1="285" y1="600" x2="700" y2="770" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="492.5" y="677.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">validated in</text><line x1="800" y1="600" x2="800" y2="770" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="800.0" y="677.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">applied in</text><line x1="1315" y1="600" x2="900" y2="770" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1107.5" y="677.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">published in</text><line x1="390" y1="880" x2="515" y2="845" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="452.5" y="854.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">supports</text><line x1="1210" y1="880" x2="1085" y2="845" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1147.5" y="854.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">supports</text>
+  <text x="1530" y="1072" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64748B">InfraDev Academy · Current Architecture</text>
+</svg>

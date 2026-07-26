@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1100" viewBox="0 0 1600 1100" role="img">
+<title>Foundation Review Framework — Current State</title>
+<desc>Evidence-based validation of institutional, architectural, governance, editorial and release readiness.</desc>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto">
+    <path d="M0,0 L0,8 L9,4 z" fill="#64748B"/>
+  </marker>
+</defs>
+<rect width="100%" height="100%" fill="#F1F5F9"/>
+<text x="60" y="60" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#0F172A">Foundation Review Framework — Current State</text>
+<text x="60" y="92" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#475569">Evidence-based validation of institutional, architectural, governance, editorial and release readiness.</text>
+<rect x="560" y="130" width="480" height="110" rx="14" fill="#E2E8F0" stroke="#0F172A" stroke-width="2"/>
+<text x="578" y="160" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Foundation Review Input</text>
+<text x="578" y="188" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Foundation deliverables · Sprint 0 evidence · release scope</text>
+<rect x="70" y="340" width="350" height="150" rx="14" fill="#EEF2FF" stroke="#4F46E5" stroke-width="2"/>
+<text x="88" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Institutional Clarity</text>
+<text x="88" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Purpose · Vision · Mission</text>
+<text x="88" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Values · Brand Principles</text>
+<rect x="440" y="340" width="350" height="150" rx="14" fill="#EFF6FF" stroke="#2563EB" stroke-width="2"/>
+<text x="458" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Architecture &amp; Repository</text>
+<text x="458" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Structure · ADRs</text>
+<text x="458" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Collection responsibilities</text>
+<rect x="810" y="340" width="350" height="150" rx="14" fill="#FDF4FF" stroke="#A21CAF" stroke-width="2"/>
+<text x="828" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Governance &amp; Decisions</text>
+<text x="828" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Decision Log · approvals</text>
+<text x="828" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Traceability · ownership</text>
+<rect x="1180" y="340" width="350" height="150" rx="14" fill="#FFF7ED" stroke="#EA580C" stroke-width="2"/>
+<text x="1198" y="370" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Editorial &amp; Documentation</text>
+<text x="1198" y="398" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Standards · Guides</text>
+<text x="1198" y="417" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Metadata · navigation</text>
+<rect x="255" y="610" width="350" height="150" rx="14" fill="#ECFEFF" stroke="#0891B2" stroke-width="2"/>
+<text x="273" y="640" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Product &amp; Release</text>
+<text x="273" y="668" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Scope · acceptance criteria</text>
+<text x="273" y="687" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Roadmap · release readiness</text>
+<rect x="995" y="610" width="350" height="150" rx="14" fill="#F0FDF4" stroke="#16A34A" stroke-width="2"/>
+<text x="1013" y="640" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Sustainability &amp; Continuity</text>
+<text x="1013" y="668" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Maintainability · risks</text>
+<text x="1013" y="687" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Deferred work · next stage</text>
+<rect x="615" y="610" width="370" height="150" rx="14" fill="#F8FAFC" stroke="#475569" stroke-width="2"/>
+<text x="633" y="640" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Review Evidence</text>
+<text x="633" y="668" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Documents · links · issues</text>
+<text x="633" y="687" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">review notes · implementation state</text>
+<polygon points="800.0,835 980,917.5 800.0,1000 620,917.5" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+<text x="800.0" y="907.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#0F172A">Foundation ready?</text>
+<text x="800.0" y="933.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#334155">Criteria satisfied</text>
+<text x="800.0" y="950.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#334155">risks acceptable</text>
+<rect x="90" y="880" width="330" height="120" rx="14" fill="#FEF2F2" stroke="#DC2626" stroke-width="2"/>
+<text x="108" y="910" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Rework Required</text>
+<text x="108" y="938" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Resolve blockers</text>
+<text x="108" y="957" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">repeat affected reviews</text>
+<rect x="635" y="930" width="330" height="105" rx="14" fill="#FEFCE8" stroke="#CA8A04" stroke-width="2"/>
+<text x="653" y="960" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Conditional Readiness</text>
+<text x="653" y="988" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Proceed with documented limitations</text>
+<rect x="1180" y="880" width="330" height="120" rx="14" fill="#ECFDF5" stroke="#059669" stroke-width="2"/>
+<text x="1198" y="910" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" fill="#0F172A">Foundation Certified</text>
+<text x="1198" y="938" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">Approve release transition</text>
+<text x="1198" y="957" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#334155">preserve review evidence</text>
+<line x1="800" y1="240" x2="245" y2="340" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="522.5" y="282.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="615" y2="340" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="707.5" y="282.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="985" y2="340" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="892.5" y="282.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="1355" y2="340" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1077.5" y="282.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="430" y2="610" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="615.0" y="417.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="1170" y2="610" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="985.0" y="417.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">evaluate</text>
+<line x1="800" y1="240" x2="800" y2="610" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="800.0" y="417.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">collect evidence</text>
+<line x1="800" y1="760" x2="800" y2="835" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<line x1="620" y1="918" x2="420" y2="940" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="520.0" y="921.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">No</text>
+<line x1="800" y1="1000" x2="800" y2="930" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="800.0" y="957.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">Conditional</text>
+<line x1="980" y1="918" x2="1180" y2="940" stroke="#64748B" stroke-width="2.2" marker-end="url(#arrow)"/>
+<text x="1080.0" y="921.0" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">Yes</text>
+<text x="1550" y="1075" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64748B">InfraDev Academy · Foundation Review Framework</text>
+</svg>
