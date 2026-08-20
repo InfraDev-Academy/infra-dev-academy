@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta
+    name="description"
+    content="InfraDev Academy is an engineering knowledge ecosystem for hardware, infrastructure, software development and professional growth."
+  >
+  <title>InfraDev Academy</title>
+  <link rel="stylesheet" href="./assets/css/main.css">
+  <script src="./assets/js/main.js" defer></script>
+</head>
+
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <div class="container header-layout">
+      <a class="brand" href="#home" aria-label="InfraDev Academy home">
+        <span class="brand-mark" aria-hidden="true">IA</span>
+        <span>InfraDev Academy</span>
+      </a>
+
+      <button
+        class="nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="primary-navigation"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="nav-toggle-line" aria-hidden="true"></span>
+        <span class="nav-toggle-line" aria-hidden="true"></span>
+        <span class="nav-toggle-line" aria-hidden="true"></span>
+      </button>
+
+      <nav id="primary-navigation" class="primary-navigation" aria-label="Primary navigation">
+        <a href="#home">Home</a>
+        <a href="#knowledge">Knowledge</a>
+        <a href="#release">Current release</a>
+        <a href="#principles">Principles</a>
+        <a href="#contribute">Contribute</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section id="home" class="hero section">
+      <div class="container hero-layout">
+        <div class="hero-copy">
+          <p class="eyebrow">Learning by Engineering</p>
+          <h1>Build knowledge through real engineering practice.</h1>
+          <p class="hero-description">
+            InfraDev Academy connects hardware, infrastructure, software development
+            and professional growth through structured learning and real engineering practice.
+          </p>
+
+          <div class="hero-actions">
+            <a class="button button-primary" href="#knowledge">Explore knowledge domains</a>
+            <a class="button button-secondary" href="#release">View current release</a>
+            <button
+              class="button button-secondary"
+              type="button"
+              data-learning-trigger
+              aria-pressed = "false">
+              Start learning
+            </button>
+          </div>
+          <p class = "learning-status"
+              data-learning-status aria-live="polite">
+            Ready for the next engineering step
+          </p>
+        </div>
+
+        <aside class="hero-panel" aria-label="Current project direction">
+          <p class="panel-label">Current direction</p>
+          <h2>Hardware Essentials</h2>
+          <p>
+            The first technical release turns workstation migration, storage,
+            diagnostics and maintenance into reusable learning resources.
+          </p>
+          <ul class="check-list">
+            <li>Concepts</li>
+            <li>Practical laboratories</li>
+            <li>Real anonymized cases</li>
+            <li>Engineering reflection</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section id="knowledge" class="section section-muted">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Knowledge architecture</p>
+          <h2>Explore the domains</h2>
+          <p>
+            Each domain is designed as an entry point for concepts, practice,
+            case studies and future learning paths.
+          </p>
+        </div>
+
+        <div class="domain-grid">
+          <article class="domain-card">
+            <span class="domain-index">01</span>
+            <h3>Hardware</h3>
+            <p>Components, compatibility, installation, diagnostics and maintenance.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">02</span>
+            <h3>Operating Systems</h3>
+            <p>Windows, Linux, processes, services, storage, permissions and logs.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">03</span>
+            <h3>Networking</h3>
+            <p>Addressing, protocols, routing, services and evidence-based troubleshooting.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">04</span>
+            <h3>Programming</h3>
+            <p>Logic, languages, debugging, testing, APIs and maintainable software.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">05</span>
+            <h3>Databases</h3>
+            <p>Modeling, SQL, PostgreSQL, transactions, performance and recovery.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">06</span>
+            <h3>Containers</h3>
+            <p>Docker, images, runtime, volumes, networking and reproducible environments.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">07</span>
+            <h3>DevOps & Cloud</h3>
+            <p>Delivery, automation, observability, infrastructure and resilient services.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">08</span>
+            <h3>Security</h3>
+            <p>Risk, identity, controls, detection, response and ethical practice.</p>
+          </article>
+
+          <article class="domain-card">
+            <span class="domain-index">09</span>
+            <h3>Career</h3>
+            <p>Learning strategy, portfolio, professional positioning and continuous growth.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="release" class="section">
+      <div class="container release-layout">
+        <div>
+          <p class="eyebrow">Release v0.2.0</p>
+          <h2>Hardware Essentials</h2>
+          <p class="release-description">
+            A practical foundation for understanding components, planning safe changes,
+            validating hardware behavior and documenting technical decisions.
+          </p>
+        </div>
+
+        <div class="release-steps" aria-label="Hardware Essentials learning flow">
+          <div>
+            <strong>Understand</strong>
+            <span>Components and architecture</span>
+          </div>
+          <div>
+            <strong>Apply</strong>
+            <span>Safe procedures and laboratories</span>
+          </div>
+          <div>
+            <strong>Validate</strong>
+            <span>Evidence, tests and results</span>
+          </div>
+          <div>
+            <strong>Reflect</strong>
+            <span>Lessons and reusable knowledge</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="principles" class="section section-dark">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Project principles</p>
+          <h2>Engineering before speed.</h2>
+        </div>
+
+        <div class="principles-grid">
+          <article>
+            <h3>Documentation as Product</h3>
+            <p>Documentation is designed, reviewed and maintained as a product capability.</p>
+          </article>
+          <article>
+            <h3>Learning by Engineering</h3>
+            <p>Every concept should move toward practice, validation and reflection.</p>
+          </article>
+          <article>
+            <h3>Structure before Scale</h3>
+            <p>Growth follows maintainable architecture rather than uncontrolled volume.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="contribute" class="section">
+      <div class="container contribution-card">
+        <div>
+          <p class="eyebrow">Build with us</p>
+          <h2>Turn experience into reusable knowledge.</h2>
+          <p>
+            Contributors can improve documentation, review technical content,
+            validate laboratories and help shape future learning paths.
+          </p>
+        </div>
+        <a class="button button-primary" href="../docs/guides/GUIDE-001-Contributor-Guide.md">
+          Read the Contributor Guide
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-layout">
+      <p>© <span data-current-year></span> InfraDev Academy.</p>
+      <p>Knowledge is continuously engineered.</p>
+    </div>
+  </footer>
+</body>
+</html>
