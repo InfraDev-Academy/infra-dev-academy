@@ -59,6 +59,8 @@ Não inserir scripts de análise, pagamentos, calendário, formulários terceiro
 
 Depois de publicar a URL institucional, preparar uma mudança específica no site Atlas: navegação consistente, identificação como produto InfraDev e link de retorno ao hub. Reutilizar paleta, linguagem e componentes compatíveis; manter o formulário e o armazenamento próprios do produto. Essa mudança não faz parte do deploy desta missão e terá diff, testes e aprovação separados.
 
+Consulta complementar de 13/10/2026: uma resposta DNS-over-HTTPS do Google para `infradev.infradevatlas.online` retornou `NXDOMAIN`. Esse endereço ainda não pode ser usado como link público. Definir a URL institucional somente após escolher e configurar o destino de hospedagem; validar novamente antes de editar a página do Atlas.
+
 ## Referências consultadas em 12/10/2026
 
 - [Cloudflare Pages: preços de assets estáticos](https://developers.cloudflare.com/pages/functions/pricing/)
